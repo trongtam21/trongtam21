@@ -18,3 +18,10 @@ My name is Trọng Tâm, and I am currently a student at the Academy of Cryptogr
 | Wireshark | Volatility | FTK image | AUtopsy |  IDA |
 |----------|----------|--------------|---------|-------|
 |  <img src="image/wireshark.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="image/IMG_6301.svg" title="Volatility"  alt="windows" width="55" height="55"/> |  <img src="image/3555359.png" title="FTK"  alt="FTK" width="55" height="55"/> |  <img src="image/866922.png" title="FTK"  alt="FTK" width="55" height="55"/> |  <img src="image/how-it-works.webp" title="FTK"  alt="FTK" width="55" height="55"/> 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
