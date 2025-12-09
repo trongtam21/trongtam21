@@ -3,9 +3,9 @@ My name is Trọng Tâm, and I am currently a student at the Academy of Cryptogr
 
 ### Skills
 #### Language
-| Python3 | C++ |
-|----------|----------|
-|  <img src="image/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="image/icons8-c++.svg" title="C++"  alt="C++" width="55" height="55"/> 
+| Python3 | C++ | Bash |
+|----------|----------|----------|
+|  <img src="image/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="image/icons8-c++.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://images.icon-icons.com/350/PNG/512/bash_36261.png" title="bash"  alt="C++" width="55" height="55"/> 
 
 #### OS
 
